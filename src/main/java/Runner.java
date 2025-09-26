@@ -16,5 +16,9 @@ public class Runner {
 
         //versiyon 5
         System.out.println("yeni versiyon 5");
+
+        //versiyon 6
+        System.out.println("Denemek için yeni versiyon");
+
     }
 }
